@@ -1,0 +1,22 @@
+{
+  "name": "GWFourceDemo",
+  "version": "0.1.0",
+  "summary": "A short description of GWFourceDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liguangwei/GWFourceDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liguangwei": "1195297551@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/liguangwei/GWFourceDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GWFourceDemo/Classes/**/*"
+}

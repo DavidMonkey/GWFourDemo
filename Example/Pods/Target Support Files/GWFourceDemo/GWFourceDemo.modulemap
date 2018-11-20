@@ -1,0 +1,6 @@
+framework module GWFourceDemo {
+  umbrella header "GWFourceDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

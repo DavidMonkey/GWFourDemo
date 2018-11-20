@@ -1,0 +1,16 @@
+PODS:
+  - GWFourceDemo (0.1.0)
+
+DEPENDENCIES:
+  - GWFourceDemo (from `../`)
+
+EXTERNAL SOURCES:
+  GWFourceDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GWFourceDemo: a193eafff416f4db1a018883ff3e0228aa435791
+
+PODFILE CHECKSUM: 35e68f620488ea324a960b9655736e4252bd474f
+
+COCOAPODS: 1.5.3
